@@ -43,7 +43,7 @@ is not responsible for the usage purpose and method of the users.
 > [You can translate other languages from Crowdin](https://crowdin.com/project/whatsasena)
 
 ## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp helper bot written by [Muhammed Fazil](https://github.com/fazilvk786). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 ### Very Simple Method
