@@ -3,18 +3,7 @@
 ----
 
 ```
-Asena, Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
-
-WhatsAsena - Asena Userbot Açık Kaynaklı geliştirmeye açık bir yazılımdır. 
-Yanlış ve amacı dışında kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
-Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp eklemeler çıkarmalar yapabilir,
-kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
-orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
-biçimde kullanmaları özelliğini sağlar.
-Kullanımı tamamen kullanıcının sorumluluğundadır, 
-Asena Userbot yalnızca bir altyapıdır. Nasıl sonradan yüklenen programlarla 
-yapılan işlerden işletim sistemi sorumlu değilse, 
-WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değildir.
+അസെന, അസെന യൂസർ ബോട്ട്, വാട്ട്‌സ്അസേന എന്നിവയാണ് സോഫ്റ്റ്വെയറിനെ പ്രതിനിധീകരിക്കുന്ന പേരുകൾ, അവ ലേഖനത്തിന്റെ ബാക്കി ഭാഗങ്ങളിൽ പരസ്പരം ഉപയോഗിക്കാം. WhatsAsena - വികസനത്തിനായി തുറന്ന ഓപ്പൺ സോഴ്‌സ് സോഫ്റ്റ്വെയറാണ് അസെന യൂസർബോട്ട്. തെറ്റായതോ ദുരുപയോഗം ചെയ്യുന്നതോ ആയ എല്ലാ പ്രത്യാഘാതങ്ങൾക്കും ഉപയോക്താവ് ഉത്തരവാദിയാണ്. ഇത് ഒരു ഓപ്പൺ സോഴ്‌സ് പ്രോജക്റ്റ് ആയതിനാൽ, ആർക്കും സോഫ്റ്റ്വെയർ പകർത്താനും ചേർക്കാനും നീക്കംചെയ്യാനും അവർ ഇഷ്ടാനുസൃതമാക്കുന്ന രീതിയിൽ ഉപയോഗിക്കാനും കഴിയും. കൂടാതെ, പ്ലഗ്-ഇൻ പിന്തുണ ഉപയോക്താക്കളെ യഥാർത്ഥ സോഫ്റ്റ്വെയറിലേക്ക് സ്വന്തം പ്ലഗിനുകൾ ഇൻസ്റ്റാൾ ചെയ്യാനും അവ ആഗ്രഹിക്കുന്നതുപോലെ ഉപയോഗിക്കാനും പ്രാപ്തമാക്കുന്നു. ഉപയോഗം പൂർണ്ണമായും ഉപയോക്താവിന്റെ ഉത്തരവാദിത്തമാണ്, അസീന യൂസർബോട്ട് ഒരു ഇൻഫ്രാസ്ട്രക്ചർ മാത്രമാണ് ഉപയോക്താക്കളുടെ ഉപയോഗത്തിനും ഉപയോഗത്തിനും വാട്ട്‌സ്അസെന ഉത്തരവാദിയല്ല, അതുപോലെ തന്നെ പിന്നീട് ഇൻസ്റ്റാൾ ചെയ്ത പ്രോഗ്രാമുകൾക്കൊപ്പം ഓപ്പറേറ്റിംഗ് സിസ്റ്റം ഉത്തരവാദികളല്ല.
 
 WhatsAsena - Asena Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
@@ -36,8 +25,8 @@ is not responsible for the usage purpose and method of the users.
     <br>
         Reserved |
         Reserved |
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
+        <a href="https://t.me/cinema_cmpny">Telegram Channel</a> |
+        <a href="https://t.me/cc_chat1">Telegram Group</a> |
     <br>
 </p>
 
@@ -99,10 +88,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/quiec.png?size=100)](https://quiec.tech) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R) | [![DevXenon](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy)
+[![Muhammed Fazil](https://github.com/quiec.png?size=100)](https://quiec.tech) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/fazilvk786) 
 ---|---|---|---|---
-[Yusuf Usta](https://t.me/fusuf) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)  | [DevXenon](https://github.com/phaticusthiccy)
-Author, Base, Bug Fixes, Modules |  Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules | Modules, Idea
+[Muhammed Fazil](https://t.me/fazilvk) 
+Author, Base, Bug Fixes, Modules |  Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules | Modules, Idea
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
