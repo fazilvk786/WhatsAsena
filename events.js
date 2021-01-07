@@ -3,15 +3,15 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WhatsAsena - Yusuf Usta
+FazilAssistant - Muhammed Fazil
 */
 
-// Komutları burada tutacağız.
+// We will keep commands here.
 var config = require('./config');
 var Commands = [];
 
 function addCommand(info, func) {
-    // Basit bir fonksiyon, komut eklemek için.
+    // Simple function to add commands.
     var types = ['photo', 'image', 'text', 'message'];
 
     var infos = {
@@ -27,7 +27,7 @@ function addCommand(info, func) {
     };
 
     if (info['on'] === undefined && info['pattern'] === undefined) {
-        infos.on = 'message';
+        infos.on = 'message';// Simple function to add commands.// Simple function to add commands.
         infos.fromMe = false;
     } else if (info['on'] !== undefined && types.includes(info['on'])) {
         infos.on = info['on'];
