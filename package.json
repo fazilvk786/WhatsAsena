@@ -1,24 +1,24 @@
 {
-  "name": "whatsasena",
+  "name": "fazil assistant",
   "version": "0.10.0",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "description": "fazil assisstant project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./whatsAsena/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Quiec/WhatsAsena.git"
+    "url": "git+https://github.com/fazilvk786/WhatsAsena.git"
   },
   "keywords": [
     "whatsapp"
   ],
-  "author": "AsenaDev / Yusuf Usta",
+  "author": "Muhammed Fazil",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Quiec/WhatsAsena/issues"
   },
-  "homepage": "https://github.com/Quiec/WhatsAsena#readme",
+  "homepage": "https://github.com/fazilvk786/WhatsAsena#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
